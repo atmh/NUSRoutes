@@ -1,7 +1,7 @@
 # NUSRoutes
 
 Orbital 2021  
-Level of Achievement: Apollo 11 
+Level of Achievement: Apollo 11  
 By: Alvin Tay & Tan De Shao.
 
 [NUSRoutes](https://nusroutes.vercel.app/) is a web app with an intuitively clear and concise UI for NUS Shuttle Bus Services, including a route recommendation feature.
